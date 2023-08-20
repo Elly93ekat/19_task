@@ -12,6 +12,6 @@
 Обновление информации о существующем питомце;
 Быстро добавление питомца без фото;
 Обновление информации о питомце, добавление фото к быстро созданному питомцу.
-Документация для тестирования API находится по ссылке: https://petfriends1.herokuapp.com/apidocs/#/
+Документация для тестирования API находится по ссылке:[https://petfriends.skillfactory.ru/apidocs](https://petfriends.skillfactory.ru/apidocs/#/)
 
 Для запуска кода необходимо установить requests, requests.toolbelt
