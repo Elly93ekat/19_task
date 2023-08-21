@@ -1,4 +1,4 @@
-# 19_task
+# 19.7_task
 
 Этот репозиторий содержит автотесты для https://petfriends.skillfactory.ru/:
 
